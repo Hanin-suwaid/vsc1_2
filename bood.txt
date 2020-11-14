@@ -3,3 +3,4 @@ pizza:
 - pizzadeeg
 - kaas
 - tomaat
+- paprika
