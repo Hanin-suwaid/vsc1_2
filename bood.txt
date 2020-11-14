@@ -3,5 +3,11 @@ pizza:
 - pizzadeeg
 - kaas
 - tomaat
-- paprika
+- paprik
 - rucola
+ontbijt: 
+- kaas
+- brood
+- ham
+
+
