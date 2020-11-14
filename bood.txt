@@ -4,3 +4,4 @@ pizza:
 - kaas
 - tomaat
 - paprika
+- rucola
